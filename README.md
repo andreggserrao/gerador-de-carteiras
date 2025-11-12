@@ -1,1 +1,1 @@
-Arquivo Gerador de Carteiras - Curso Blockchain DIO
+Arquivo Gerador de Carteiras - testnet
